@@ -1,0 +1,18 @@
+
+h1
+{
+	color: rgb(250, 250, 250); 
+	font-size: 40px;
+}
+.body_background {
+	background-image:url("canvaspicop.jpg");
+    background-position: center;
+	background-size: cover;
+}
+
+
+#my_Canvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
